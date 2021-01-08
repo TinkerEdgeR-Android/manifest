@@ -679,6 +679,7 @@
   <project path="system/chre" name="TinkerEdgeR-Android/system_chre" />
   <project path="system/connectivity/wificond" name="TinkerEdgeR-Android/system_connectivity_wificond" />
   <project path="system/connectivity/wifilogd" name="TinkerEdgeR-Android/system_connectivity_wifilogd" />
+  <project path="system/core" name="TinkerEdgeR-Android/system_core" />
   <project path="system/extras" name="TinkerEdgeR-Android/system_extras" />
   <project path="system/gatekeeper" name="TinkerEdgeR-Android/system_gatekeeper" />
   <project path="system/hardware/interfaces" name="TinkerEdgeR-Android/system_hardware_interfaces" />
